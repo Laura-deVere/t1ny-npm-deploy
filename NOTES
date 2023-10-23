@@ -1,0 +1,8 @@
+Make sure our package name is unique
+specify which files should be sent to NPM when we publish(files in package json)
+split our 'dependencies' and 'devDependencies'
+set our package to be publicily accessible
+if building a CLI, configure the file to run
+Add a 'prePublish' script
+commit to git
+run 'npm publish'
